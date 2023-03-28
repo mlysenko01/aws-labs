@@ -2,7 +2,7 @@
 
 ![DEMOGRID](https://github.com/acantril/learn-cantrill-io-labs/raw/master/demogrid.png)
 
-Welcome .. this repo stores a collection of freely available demos and mini projects for AWS (and in the future other cloud platforms)
+Welcome ... this repo stores a collection of freely available demos and mini projects for AWS (and in the future other cloud platforms)
 These demos are available in three ways:-
 
 - here in instruction & architecture diagram form for free
