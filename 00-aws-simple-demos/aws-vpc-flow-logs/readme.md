@@ -6,6 +6,10 @@ We’re going to create two EC2 instances and diagnose a connectivity issue betw
 
 I will be using ap-southeast-4 (Melbourne) for this demo, but you can use any region you like. VPC Flow Logs are available in *all* regions.
 
+# Video Guide
+
+[HERE](https://youtu.be/4HvwQ1uoWEA)
+
 # Instructions
 
 ## Stage 1 - Creating IAM roles
@@ -415,7 +419,7 @@ And we can see the ICMP packets were rejected
 
 Unfortunately there’s no way to tell based on these logs whether it’s the security group, or the network ACL that is rejecting the traffic, but this at least gives you an idea on where to look.
 
-## Stage 7 - Clean up
+## Stage 10 - Clean up
 
 Head to the EC2 console: https://ap-northeast-1.console.aws.amazon.com/ec2/v2/home
 
